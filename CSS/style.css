@@ -3,6 +3,7 @@
 }
 .foto {
     width: 200px;
-    text-align: left;
-    margin: 0 10px 10px 0;
+    float: right; /* Обтекание картинки по левому краю */
+    padding-right: 10px; /* Отступ слева */
+    padding-bottom: 10px; /* Отступ снизу */
 }
