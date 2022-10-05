@@ -2,7 +2,14 @@
     text-align: center;
 }
 .foto {
+    color: #c23d3d;
     width: 200px;
     float: left; /* Обтекание картинки по левому краю */
     padding: 0 10px 10px 0; /* Отступ слева и снизу */
+}
+
+.navhref {
+    padding: 10px;
+    border: 1px solid #32324e;
+    border-radius: 10px;
 }
